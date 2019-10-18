@@ -11,4 +11,4 @@ to
 
 At the end two sample images are generated, a t-shirt and a shoe. Not fully satisfactory, but training a GAN is really difficult...
 
-Sample python notebook showing GAN on fashion MNIST dataset. This is the homework assignment of the 6th week for [Siraj Raval course](https://www.machinelearningcourse.io/courses/make-money).
+Sample python notebook showing GAN on fashion MNIST dataset. This is the homework assignment of the 6th week for [MMWML course](https://www.machinelearningcourse.io/courses/make-money).
